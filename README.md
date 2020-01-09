@@ -1,0 +1,1 @@
+![Complied code](src/docs/fizzbuzz.png)
